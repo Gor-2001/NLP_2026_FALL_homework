@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+*.gz
+/hw_02/data
